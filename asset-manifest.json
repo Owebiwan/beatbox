@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/beatbox/static/css/main.b48893ac.chunk.css",
+    "main.js": "/beatbox/static/js/main.6768d920.chunk.js",
+    "main.js.map": "/beatbox/static/js/main.6768d920.chunk.js.map",
+    "runtime-main.js": "/beatbox/static/js/runtime-main.f0e015e2.js",
+    "runtime-main.js.map": "/beatbox/static/js/runtime-main.f0e015e2.js.map",
+    "static/js/2.428fc212.chunk.js": "/beatbox/static/js/2.428fc212.chunk.js",
+    "static/js/2.428fc212.chunk.js.map": "/beatbox/static/js/2.428fc212.chunk.js.map",
+    "index.html": "/beatbox/index.html",
+    "precache-manifest.2b43138ceb8fd769df346521e17bc602.js": "/beatbox/precache-manifest.2b43138ceb8fd769df346521e17bc602.js",
+    "service-worker.js": "/beatbox/service-worker.js",
+    "static/css/main.b48893ac.chunk.css.map": "/beatbox/static/css/main.b48893ac.chunk.css.map",
+    "static/js/2.428fc212.chunk.js.LICENSE.txt": "/beatbox/static/js/2.428fc212.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/beatbox/static/media/woody.c534ed5e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0e015e2.js",
+    "static/js/2.428fc212.chunk.js",
+    "static/css/main.b48893ac.chunk.css",
+    "static/js/main.6768d920.chunk.js"
+  ]
+}
